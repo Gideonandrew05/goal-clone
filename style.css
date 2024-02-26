@@ -1,0 +1,777 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-color: #00000070;
+}
+.parent{
+	background-color: #00000070;
+	width: 100%;
+	height: 100%;
+}
+
+.navs nav img{
+	width: 60px;
+	height:40px;
+	margin-top:10px ;
+	margin-left:10px ;
+	padding-left: 20px;
+}
+.navs nav{
+	display: flex;
+	background-color: black;
+}
+.navs ul li{
+	list-style-type: none;
+	padding: 12px;
+	display: inline-block;
+
+}
+.under{
+	text-decoration: underline;
+	text-decoration-color: coral;
+	border: 2px solid coral;
+}
+.navs nav ul li a:hover{
+	text-decoration: underline 3px;
+	text-decoration-color: coral;
+}
+
+.navs ul li a{
+	color:white;
+	text-decoration: none;
+	font-size: 500;
+	font-family: sans-serif;
+}
+.ads{
+	background-color: #00000070;
+}
+.main{
+	background-color:#00000070 ;
+	
+	
+}
+.main p{
+text-align: center;
+}
+.main video{
+	display: flex;
+	margin: auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	width: 100%;
+	height: 360px;
+}
+.main3 iframe{
+	width: 100%;
+	height: 100%;
+	display: flex;
+	align-items: center;
+	margin: auto;
+}
+
+
+
+
+.top{
+	color: white;
+	font-size: 40px;
+	font-weight: 500;
+	padding-left: 113px;
+	font-family: sans-serif;
+}
+.fada{
+	display: flex;
+	background-color: red;
+	width: 1000px;
+	height: 650px;
+	margin-top: 50px;
+	margin-left: 120px;
+}
+.son{
+	height: 100%;
+	width: 66%;
+	background-color:#686262;
+}
+.dauda{
+	margin-left: 20px;
+	height: 100%;
+	width: 32%;
+	background-color: yellow;
+}
+.son1{
+	background-image:url("goal.com/img1.webp");
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 50%;
+	width: 100%;
+	background-color: brown;
+}
+.dauda1{
+	height: 49%;
+	width: 100%;
+	background-color: #686262;
+}
+.dauda2{
+		height: 49%;
+		margin-top: 13px;
+	width: 100%;
+	background-color: #686262;
+}
+.di1{
+	background-image:url("goal.com/img2.webp");
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 50%;
+
+}
+.di3{
+	background-image:url("goal.com/img3.webp");
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 50%;
+}
+.son2{
+	margin-left: 20px;
+}
+.son2 button{
+	margin-top: 25px;
+	margin-left: 10px;
+	border: 1px solid white;
+	border-bottom: 2px solid white;
+	background-color:#686262;
+	color: white;
+	padding: 10px;
+}
+.son2 p{
+	color: white;
+}
+.son2 h1{
+	color: white;
+}
+.symbol{
+	display: flex;
+	justify-content: space-between;
+}
+.di2{
+	margin-left: 20px;
+}
+
+.di2 button{
+	margin-top: 25px;
+	
+	border: 1px solid white;
+	border-right: 2px solid white;
+	background-color:#686262;
+	color: white;
+	padding: 5px;
+}
+.di2 p{
+	color: white;
+}
+.di4{
+	margin-left: 20px;
+}
+.di4 button{
+	margin-top: 25px;
+	
+	border: 1px solid white;
+	border-right: 2px solid white;
+	background-color:#686262;
+	color: white;
+	padding: 5px;
+}
+.di4 p{
+	color: white;
+}
+.luke{
+	margin-top: 20px;
+	display: flex;
+	width: 660px;
+	height: 300px;
+	background-color: coral;
+	justify-content: space-between;
+	margin-left: 120px;
+
+}
+.lukeson{
+	width: 49%;
+	height: 100%;
+	background-color: green;
+}
+.lukeson1{
+	background-image:url("goal.com/img4.webp");
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 50%;
+	width: 100%;
+	height: 50%;
+	background-color: purple;
+}
+.lukeson2{
+	width: 100%;
+	height: 50%;
+	background-color: blueviolet;
+
+}
+.lukedada{
+	width: 49%;
+	height: 100%;
+	background-color: skyblue;
+}
+.lukedada1{
+	background-image:url("goal.com/img5.webp");
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 50%;
+	width: 100%;
+}
+.lukedada2{
+	margin-left: 20px;
+}
+.lukedada2 button{
+	margin-top: 25px;
+	
+	border: 1px solid white;
+	border-right: 2px solid white;
+	background-color:#686262;
+	color: white;
+	padding: 5px;
+
+}
+.lukedada2 h1{
+color: white;
+font-size: 20px;
+}
+.lukeson2 p{
+	margin-left:25px ;	
+
+}
+.lukeson2 button{
+	margin-top: 25px;
+	margin-left: 25px;
+	border: 1px solid white;
+	border-right: 2px solid white;
+	background-color:#686262;
+	color: white;
+	padding: 5px;
+}
+.lukeson2 h1{
+color: white;
+font-size: 20px;
+margin-left:25px;
+}
+.Gideon{
+	margin-top: 20px;
+	display: flex;
+	width: 660px;
+	height: 700px;
+	margin-left: 120px;
+	background-color: orange;
+
+}
+.Gson{
+
+	background-color: tomato;
+	height: 100%;
+	width: 49%;
+
+
+
+}
+.Gdada{
+	width: 49%;
+	height: 100%;
+	background-color: coral;
+	
+
+}
+/*.Gdada{
+	background-image:url("goal.com/img1.webp");
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 50%;
+	width: 100%;
+}*/
+.Gdada1{
+	margin-left: 20px;
+	background-color: brown;
+	height: 50%;
+	width: 100%;
+	
+}
+.Gdada3{
+	background-image:url("goal.com/img6.webp");
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 50%;
+	width: 100%;
+}
+.Gdada2{
+	margin-left: 20px;
+	background-color: brown;
+	height: 50%;
+	width: 100%;
+	
+}
+.di5{
+	background-image:url("goal.com/img7.webp");
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 50%;
+	width: 100%;
+
+}
+.Gdada4 button{
+	margin-top: 25px;
+	margin-left: 25px;
+	border: 1px solid white;
+	border-right: 2px solid white;
+	background-color:#686262;
+	color: white;
+	padding: 5px;
+}
+.Gdada4 p{
+		margin-left:25px ;
+		color: white;
+     font-size: 20px;
+}
+.di6 button {
+		margin-top: 25px;
+	margin-left: 25px;
+	border: 1px solid white;
+	border-right: 2px solid white;
+	background-color:#686262;
+	color: white;
+	padding: 5px;
+}
+
+.di6 p{
+		margin-left:25px ;
+		color: white;
+     font-size: 20px;
+}
+.GsonA{
+	width: 100%;
+	height:50%;
+	background-color: green;
+
+}
+.GsonB{
+	width: 100%;
+	height: 48%;
+	background-color:darkred;
+
+}
+.Gsona1{
+	width: 100%;
+	height: 30%;
+	background-color: seagreen;
+
+}
+.Gsona2{
+	width: 100%;
+	height: 30%;
+	background-color: blue;
+}
+.Gsona3{
+	width: 100%;
+	height: 39%;
+	background-color: skyblue;
+}
+.Gsonb1{
+	width: 100%;
+	height: 30%;
+	background-color: indigo;
+}
+.Gsonb2{
+	width: 100%;
+	height: 30%;
+	background-color: midnightblue;
+}
+.Gsonb3{
+	width: 100%;
+	height: 34%;
+	background-color: darkcyan;
+
+}
+.Gsona1 h1{
+	font-family: sans-serif;
+	color: white;
+	font-size: 12px;
+	padding-left: 20px;
+	font-weight: 500;
+	border-bottom: 2px solid black;
+	
+	
+}
+
+.Gson h1{
+color: white;
+padding-left: 20px;
+overflow-y: auto;
+}
+.Gson p{
+color: white;
+padding-left: 20px;
+}
+.Gson h3{
+color: white;
+padding-left: 20px;
+border-bottom: 2px solid #385557 ;
+}
+.sabn{
+	text-align: center;
+	padding-top: 20px;
+}
+.sabn a{
+		color: white;
+		text-decoration: none;
+		font-size: 25px;
+		font-weight: 700;
+}
+.ads2{
+	/*background-color: #00000070;*/
+}
+.main2{
+	margin-top: 120px;
+	background-color:#00000070 ;
+	width: 1000px;
+	height: 250px;
+	
+	margin-left: 120px;
+	
+	
+}
+.main2 p{
+text-align: center;
+color: white;
+}
+.main2 img{
+	display: flex;
+	margin: auto;
+	margin-top: 100px;
+}
+.video{
+	margin-top: 50px;
+	color: white;
+	font-family: sans-serif;
+	font-weight: 500;
+	margin-left: 120px;
+}
+
+.main3{
+		margin-top: 100px;
+	background-color:black ;
+	width: 1000px;
+	height: 250px;
+}
+.text-below-video{
+	background-color:#00000070 ;
+	width: 1000px;
+	height: 250px;
+}
+.symbo2{
+	display: flex;
+	justify-content: space-between;
+
+}
+.symbo2 p{
+	margin-right: 30px;
+}
+.symbo2 p a{
+	color: white;
+	text-decoration: none;
+}
+.body-of-main-video{
+		margin-top: 20px;
+	background-color:red ;
+	width: 1000px;
+	height: 250px;
+	
+	margin-left: 100px;
+}
+.text-below-video button{
+	margin-top: 25px;
+	margin-left: 25px;
+	border: 1px solid white;
+	border-right: 2px solid white;
+	background-color:#686262;
+	color: white;
+	padding: 10px;
+}
+.text-below-video p{
+		margin-left:25px ;
+		color: white;
+     font-size: 20px;
+}
+.text-below-video h1{
+		margin-left:25px ;
+		color: white;
+     font-size: 30px;
+     font-weight: 700;
+}
+.jacob{
+	margin-top: 260px;
+	display: flex;
+	width: 1000px;
+	height: 350px;
+	background-color: coral;
+	justify-content: space-between;
+	margin-left: 100px;
+}
+.jacob1{
+	margin-top: 10px;
+	display: flex;
+	width: 1000px;
+	height: 350px;
+	background-color: coral;
+	justify-content: space-between;
+	margin-left: 100px;
+}
+.btn{
+	padding: 10px 80px 10px 80px;
+	/*padding-right: 50px;*/
+	border: 2px solid tomato;
+	background-color: #00000070;
+	color: white;
+	margin-top: 30px;
+	margin-left: 525px;
+}
+.btn:hover{
+	color: coral;
+}
+.fada2{
+	display: flex;
+	background-color:#00000070;
+	width: 1000px;
+	height: 650px;
+	margin-top: 50px;
+	margin-left: 100px;
+}
+.tata{
+	margin-left: 20px;
+	height: 100%;
+	width: 32%;
+	background-color: #00000070;
+}
+
+.pleague{
+	margin-top: 50px;
+	color: white;
+	font-family: sans-serif;
+	font-weight: 500;
+	margin-left: 120px;
+}
+.premiermain{
+	background-image: url(goal.com/img12.webp);
+	background-size: cover;
+	background-repeat: no-repeat;
+		margin-top: 100px;
+	background-color:black ;
+	width: 1000px;
+	height: 500px;
+}
+.jacoba{
+	margin-top: 510px;
+	display: flex;
+	width: 1000px;
+	height: 350px;
+	background-color: coral;
+	justify-content: space-between;
+	margin-left: 100px;
+}
+.jacobb{
+	margin-top: 20px;
+	display: flex;
+	width: 1000px;
+	height: 350px;
+	background-color: coral;
+	justify-content: space-between;
+	margin-left: 100px;
+}
+.analysis{
+	margin-top:50px;
+	color: white;
+	font-size: 40px;
+	font-weight: 500;
+	padding-left: 113px;
+	font-family: sans-serif;
+}
+.end1{
+	margin-top: 20px;
+	display: flex;
+	margin-left: 120px;
+	width: 1000px;
+	height: 300px;
+	background-color: blue;
+}
+.line1{
+	margin-top: -10px;
+	border-width: 5px;
+	padding: 20px 0px 0px 20px;
+	list-style-type:none;
+font-size: 15px;
+color: white;
+	
+
+}
+.line1a{
+
+	border-right: 2px solid tomato;
+}
+.line1b{
+
+	border-right: 2px solid tomato;
+}
+.line1c{
+
+	border-right: 2px solid tomato;
+}
+.line1d{
+
+	border-right: 2px solid tomato;
+}
+
+
+.line2{
+	margin-top: -10px;
+	padding: 20px;
+	list-style-type:none;
+	font-size: 15px;
+color: white;
+}
+
+span{
+	color: coral;
+	font-size: 30px;
+}
+footer{
+	width: 100%;
+	height: 100%;
+	background-color: black;
+	margin-left: 0px;
+	display: flex;
+}
+.final{
+
+	display: flex;
+	width: 1000px;
+	height: 400px;
+	background-color: coral;
+	justify-content: space-between;
+	margin-left: 120px;
+}
+.must{
+	padding-left: 150px;
+	color: white;
+	font-weight: 500;
+	font-family: sans-serif;
+}
+.mainp img{
+	display: flex;
+	margin-left: 400px;
+	margin-top: 70px;
+	
+}
+.sfooter{
+	padding-right: 100px;
+	display: flex;
+	align-items: center;
+	margin-top:70px;
+	margin-left: 10px;
+}
+.con1{
+
+	margin-right: 10px;
+	padding: 10px 15px 10px 10px;
+	list-style-type:none ;
+	border-right: 2px solid blue;
+
+}
+.con2{
+
+
+	padding: 10px 10px 10px 10px;
+	list-style-type:none ;
+	border-right: 2px solid blue;
+
+}
+.con3{
+
+padding: 10px 10px 10px 10px;
+	list-style-type:none ;
+		border-right: 2px solid blue;
+
+}
+.con4{
+
+	
+	padding: 10px 10px 10px 10px;
+	list-style-type:none ;
+		border-right: 2px solid blue;
+}
+li a{
+	color: white;
+		text-decoration: none;
+		font-family: sans-serif;
+		font-weight: 500;
+		font-size: 15px;
+}
+.con5{
+
+	
+	padding: 10px 10px 10px 10px;
+	list-style-type:none ;
+		border-right: 2px solid blue;
+
+}
+.con6{
+
+
+	padding: 10px 10px 10px 10px;
+	list-style-type:none ;
+		border-right: 2px solid blue;
+
+}
+.con7{
+	padding: 10px 10px 10px 10px;
+	list-style-type:none ;
+		border-right: 2px solid blue;
+}
+.flag{
+	padding-right: 200px;
+	
+	align-items: center;
+	margin-top:200px;
+	margin-left: -300px;
+}
+.flag p{
+	text-align: center;
+}
+.links{
+	padding-left: 80px;
+	position: relative;
+}
+.ngn{
+position: absolute;
+	margin-top: 250px;
+	
+
+}
+.ngn h3{
+	margin-left: 500px;
+	color: white;
+}
+
+.ngn p{
+	position: absolute;
+	color: white;
+	text-align: center;
+	padding-left: 70px;
+	
+}
+
+
+
+
+
